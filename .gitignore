@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+.env
+/.agents/
+/.codebuddy/
+/.obsidian/
+/raw/
+/方法论/
+/AI 工作日记/
+/wiki/
