@@ -2,6 +2,8 @@
 
 [中文指南](README.md)
 
+> **Investment risk notice.** Investing involves risk, including loss of principal. This project and its outputs are for learning and research only. They do not constitute investment advice or guarantee returns. Users make their own investment decisions and bear any resulting gains or losses. The project author is not responsible for those outcomes.
+
 Turn a Bilibili video into timestamped notes, build an investment framework from the videos you collect, and use that framework to evaluate a financial decision. All three skills work with a local Obsidian vault.
 
 | When | What to tell the assistant | What you get |
